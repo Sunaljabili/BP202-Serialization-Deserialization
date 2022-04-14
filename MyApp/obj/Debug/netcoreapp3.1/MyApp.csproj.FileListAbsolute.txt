@@ -1,0 +1,16 @@
+C:\Users\User\Desktop\MyApp\MyApp\obj\Debug\netcoreapp3.1\MyApp.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\MyApp\MyApp\obj\Debug\netcoreapp3.1\MyApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\MyApp\MyApp\obj\Debug\netcoreapp3.1\MyApp.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\MyApp\MyApp\obj\Debug\netcoreapp3.1\MyApp.AssemblyInfo.cs
+C:\Users\User\Desktop\MyApp\MyApp\obj\Debug\netcoreapp3.1\MyApp.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\MyApp\MyApp\bin\Debug\netcoreapp3.1\MyApp.exe
+C:\Users\User\Desktop\MyApp\MyApp\bin\Debug\netcoreapp3.1\MyApp.deps.json
+C:\Users\User\Desktop\MyApp\MyApp\bin\Debug\netcoreapp3.1\MyApp.runtimeconfig.json
+C:\Users\User\Desktop\MyApp\MyApp\bin\Debug\netcoreapp3.1\MyApp.runtimeconfig.dev.json
+C:\Users\User\Desktop\MyApp\MyApp\bin\Debug\netcoreapp3.1\MyApp.dll
+C:\Users\User\Desktop\MyApp\MyApp\bin\Debug\netcoreapp3.1\MyApp.pdb
+C:\Users\User\Desktop\MyApp\MyApp\obj\Debug\netcoreapp3.1\MyApp.dll
+C:\Users\User\Desktop\MyApp\MyApp\obj\Debug\netcoreapp3.1\MyApp.pdb
+C:\Users\User\Desktop\MyApp\MyApp\obj\Debug\netcoreapp3.1\MyApp.genruntimeconfig.cache
+C:\Users\User\Desktop\MyApp\MyApp\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\User\Desktop\MyApp\MyApp\obj\Debug\netcoreapp3.1\MyApp.csproj.CopyComplete
